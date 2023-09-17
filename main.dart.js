@@ -59306,7 +59306,7 @@ A.VZ.prototype={
 NJ(a){$.a8H().a.set(this,a)}}
 A.EN.prototype={
 O(a){var s=null,r=A.aeo(s,B.CC,s),q=t.s
-return new A.rO(new A.By(A.a(["SOIL SAMPLING / SAMPLING DESIGN","SOIL / SOIL HEALTH MEASUREMENT","   SOIL MODELING AND MAPPING   ","CLIMATE CHANGE ASSESSMENT","ENVIRONMENTAL DATA ANALYTICS","ENVIRONMENTAL ASSESSMENT","TECHNICAL WRITING AND EDITING"],q),A.a(["images/1.jpeg","images/2.jpg","images/3.jpg","images/4.jpg","images/5.jpg","images/6.jpg","images/7.jpg"],q),s),"SoilTeck Consulting",r,s)}}
+return new A.rO(new A.By(A.a(["SOIL SAMPLING / SAMPLING DESIGN","SOIL / SOIL HEALTH MEASUREMENT","   SOIL MODELING AND MAPPING   ","CLIMATE CHANGE ASSESSMENT","ENVIRONMENTAL DATA ANALYTICS","ENVIRONMENTAL ASSESSMENT","TECHNICAL WRITING AND EDITING"],q),A.a(["assets/images/1.jpeg","assets/images/2.jpg","assets/images/3.jpg","assets/images/4.jpg","assets/images/5.jpg","assets/images/6.jpg","assets/images/7.jpg"],q),s),"SoilTeck Consulting",r,s)}}
 A.By.prototype={
 O(a){var s,r,q,p,o,n,m,l=null,k=A.acJ(B.ay,A.acU(B.yg,B.i),B.ay,B.ay,B.ay,!1,new A.ST(a,new A.SS(),new A.SR()),B.ay,"Contact Us"),j=t.w,i=a.N(j).f
 i=A.kI(l,l,l,new A.eb(l,A.acq(B.kq,new A.mC("assets/images/1326454.jpeg")),l,l,l,l,B.aI),i.a.b*0.25,l,l,1/0)
